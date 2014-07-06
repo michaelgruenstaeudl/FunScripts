@@ -1,0 +1,48 @@
+#!/bin/bash
+
+# Global variables
+red='\e[1;31m'
+blue='\e[1;34m'
+green='\e[1;32m'
+yellow='\e[0;33m'
+purple='\e[0;35m'
+cyan='\e[0;36m'
+nocolor='\e[0m'
+
+TITLE="ExtractMp3FromMp4"
+DESCRIPTION="Shell script to extract audio (mp3) from video (mp4)"
+AUTHOR="Michael Gruenstaeudl, PhD"
+CONTACT="gruenstaeudl.1@osu.edu"
+VERSION="2014.07.05.2100"
+
+USAGE="cd to directory with mp4, then bash <this_script>"
+
+################################################################################
+
+# STEP 1: Intro display
+
+echo ""
+echo -e " ${green}Title: $TITLE | Version: $VERSION | Author: $AUTHOR${nocolor}"
+echo -e " ${yellow}Usage: $USAGE${nocolor}"
+echo ""
+
+# STEP 2: Removing spaces and parantheses from infile name
+IFS=$'\n'
+for file in $(ls *.mp4); do
+ mv $file `echo $file | sed -e 's/ /_/g' | 
+			sed -e 's/_-_/_/g' | 
+			sed -e 's/__/_/g' | 
+			sed -e 's/(//g' | 
+			sed -e 's/)//g' | 
+			sed -e 's/-//g' `;
+done
+
+# STEP 3: Removing spaces and parantheses from infile name
+for file in $(ls *.mp4); do 
+ ffmpeg -i $file $file.wav;
+ lame $file.wav $file.mp3;
+ rm $file;
+ rm $file.wav;
+ rename .mp4. . *
+done
+
