@@ -1,0 +1,18 @@
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB37CFICVTUlewYdbMSChIA  # Tichys Einblick
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ8uFo1RKSgEg-od3Yu10Pw  # Martin Sellner	
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxQdpLijLxJTXUgmM03xT0g  # Eigentümlich Frei
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiRVmVeSnNMh0A2XLvai_fQ  # Detlef Bräunig
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDterCkvuZs8TivMid75DoQ  # Michael Klonovsky
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLkHXX5R9S_qFZuCMGHWMrQ  # In Dubio - Achgut
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5tEELgWBfKbA9fVPRzBzPQ  # Gonzalo Lira
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJdKr0Bgd_5saZYqLCa9mng  # Rubin Report
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfsuI3-92QNO3DVy06PO9wg  # Skeptic Magazine
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZWlSUNDvCCS1hBiXV0zKcA  # Prager U
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqSahhEj5Df21k8cpN_EItg  # Idiotenwatch
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmumalD764dGJjdu5EJ2pMw  # Desiderius Erasmus Stiftung
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpMzD_-D1R71ZLPbmrvf6Kg  # Bibliothek des Konservatismus
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiTKi7Ahf3E2yMGpmIxSvgw  # Deutschlandkurier
+
+
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCIjuLiLHdFxYtFmWlbTGQRQ  # Peter Schiff
+
