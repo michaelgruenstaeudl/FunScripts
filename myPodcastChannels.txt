@@ -12,6 +12,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCqSahhEj5Df21k8cpN_EItg  # 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmumalD764dGJjdu5EJ2pMw  # Desiderius Erasmus Stiftung
 https://www.youtube.com/feeds/videos.xml?channel_id=UCpMzD_-D1R71ZLPbmrvf6Kg  # Bibliothek des Konservatismus
 https://www.youtube.com/feeds/videos.xml?channel_id=UCiTKi7Ahf3E2yMGpmIxSvgw  # Deutschlandkurier
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuoKuTCQ9dmPIgOgyLm9HgQ  # Samuel Kim Music
 
 
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCIjuLiLHdFxYtFmWlbTGQRQ  # Peter Schiff
