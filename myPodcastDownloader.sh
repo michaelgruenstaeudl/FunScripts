@@ -1,6 +1,6 @@
-for channel in $(cat mychannels.txt | awk '{print $1}')
+for channel in $(cat myPodcastChannels.txt | awk '{print $1}')
 do
-	latestVideos=$(wget -qO- "$channel" | grep "https://www.youtube.com/watch?v" | head -n5 | sed -e 's/.*href=\"\(.*\)\".*/\1/')
+	latestVideos=$(wget -qO- "$channel" | grep "https://www.youtube.com/watch?v" | head -n1 | sed -e 's/.*href=\"\(.*\)\".*/\1/')
 	for video in $(echo "$latestVideos")
 	do 
 		youtube-dl -f 140 "$video"

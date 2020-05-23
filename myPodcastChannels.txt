@@ -13,7 +13,15 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCmumalD764dGJjdu5EJ2pMw  # 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCpMzD_-D1R71ZLPbmrvf6Kg  # Bibliothek des Konservatismus
 https://www.youtube.com/feeds/videos.xml?channel_id=UCiTKi7Ahf3E2yMGpmIxSvgw  # Deutschlandkurier
 https://www.youtube.com/feeds/videos.xml?channel_id=UCuoKuTCQ9dmPIgOgyLm9HgQ  # Samuel Kim Music
-
-
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCIjuLiLHdFxYtFmWlbTGQRQ  # Peter Schiff
-
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXJBRgiZRZvfilIGQ4wN5CQ  # Junge Freiheit
+https://www.youtube.com/feeds/videos.xml?channel_id=UCi5RJM_p1NajcGdBQfjyU4A  # Markus Gaernter
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2xqE9CFcyhokm0VxdJBKpg  # Atlas Initiative
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtnYSEGViOnb7k8ezUaWUww  # John Anderson
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIjuLiLHdFxYtFmWlbTGQRQ  # Peter Schiff
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjB5Zb0i5q37j3yHDUECyxw  # Niall Ferguson
+https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q  # Jordan Peterson
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw  # Ben Shapiro
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjwD__1zcIfzVL6l2I5uBdg  # 33Secrets
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfmOzrUPX4shSByl7fQPmGg  # WerteUnion
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-ry8ngUIJHTMBWeoARZGmA  # Zeitzeugen-Portal
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzWwWbbKHg4aodl0S35R6XA  # Hoover Institution
