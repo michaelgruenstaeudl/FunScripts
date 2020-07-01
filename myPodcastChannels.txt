@@ -1,3 +1,7 @@
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w  # CGP Grey
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA  # Veritasium
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA  # Vsauce
+https://www.youtube.com/feeds/videos.xml?channel_id=UCi5N_uAqApEUIlg32QzkPlg  # Bret Weinstein
 https://www.youtube.com/feeds/videos.xml?channel_id=UCB37CFICVTUlewYdbMSChIA  # Tichys Einblick
 https://www.youtube.com/feeds/videos.xml?channel_id=UCZ8uFo1RKSgEg-od3Yu10Pw  # Martin Sellner	
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxQdpLijLxJTXUgmM03xT0g  # Eigentümlich Frei
